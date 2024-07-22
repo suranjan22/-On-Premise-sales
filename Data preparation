@@ -1,0 +1,7 @@
+Step 1: Calculate the Compound Annual Growth Rate
+
+You’ll need to calculate the Compound Annual Growth Rate for each account over the 5-year period.
+This will help you compare sales growth across your accounts to determine which accounts are performing the best.
+Add a formula to the spreadsheet and sort the spreadsheet so that you can see the data sorted by CAGR and account type. The CAGR formula in excel is:
+CAGR = (end/start)^(1/number of years) - 1
+Step 2: Sort the spreadsheet by CAGR and account type.
